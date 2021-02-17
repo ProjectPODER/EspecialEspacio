@@ -45,6 +45,7 @@ var autocollapse = function (menu,maxHeight) {
     }
 };
 
+
 // Iframe
 $(document).ready(function () {
     if( window.location.search.indexOf("iframe") > -1 ) {
@@ -61,7 +62,21 @@ $(document).ready(function () {
             }
         });
 
+
+        //Listen for incoming messages and reidrect
+        window.addEventListener("message", (event) => {
+            // console.log("tb",event);
+            if (event.data.url) {
+                window.location.pathname=event.data.url.substr(1);
+            }
+        });
+    
+
         updateParentUrl();
+
+        setTimeout(() =>{
+            updateParentUrl()
+        },2000)
     }
 
     // when the page loads
@@ -72,11 +87,7 @@ $(document).ready(function () {
         autocollapse('#nav',50); 
     });
 
-
 });
-
-
-
 
 function updateParentUrl() {
     //Default minimum height
