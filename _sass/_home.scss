@@ -4,18 +4,21 @@
     height: auto;
     min-height: 35rem;
     padding: 10rem 0;
-    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.5)),to(#161616)),url('#{$bgHome}');
-    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.5) 75%,#161616 100%),url('#{$bgHome}');
+    background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.1)),to(#161616)),url('#{$bgHome}');
+    background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.1) 75%,#161616 100%),url('#{$bgHome}');
+    // background: url('#{$bgHome}');
     background-position: top;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
 
     h1 {
-        font-size: 70px;
-        line-height: 75px;
-        margin-bottom: 2rem;
+        font-size: 120px;
+        line-height: 125px;
+        margin-bottom: 3rem;
         font-weight: bolder;
+        color: #F5CF70;
+        text-shadow: #49043f 6px 5px 1px;
     }
     
     h1,
@@ -29,6 +32,21 @@
         @extend .btn;
         @extend .btn-primary;
         margin: 2rem 0.5rem 1rem 0.5rem;
+        padding: 10px 20px;
+        // font-size: 1.5rem;
+        background-color: #BC3C17;
+        color: $white;
+        border-color: #F0BA1C;
+    }
+    .main-text {
+        font-weight: bold;
+        display: inline-block;
+        background-color: rgba(0,0,0,0.2);
+        color: white;
+        padding: 20px;
+        border-radius: 1em;
+        text-shadow: black 0 0 5px;
+        box-shadow: 0 0 50px rgba(0,0,0,0.4);
     }
 }
 
