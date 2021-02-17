@@ -25,3 +25,11 @@ a {
     transition: all .35s;
     word-wrap: break-word;
 }
+
+.bg-general {
+    background-image: url(../assets/img/bg-content.png);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
