@@ -75,21 +75,21 @@
     }
 }
 
-// @media (max-width: 456px) {
-//     .home-content {
-//         background: url('./img/FOMIX-mobile.png');
-//         background-position: top;
-//         background-repeat: no-repeat;
-//         background-attachment: scroll;
-//         background-size: cover;
-//         background-color: $black;
-//         padding: 5rem 0 20rem;
-//         h1 {
-//             font-size: 40px;
-//             line-height: 50px;
-//         }
-//         p {
-//             font-size: 1rem;
-//         }
-//     }
-// }
+@media (max-width: 456px) {
+    .home-content {
+        background: url('./img/FOMIX-mobile.jpg');
+        background-position: bottom;
+        background-repeat: no-repeat;
+        background-attachment: scroll;
+        background-size: cover;
+        background-color: $black;
+        // padding: 5rem 0 20rem;
+        h1 {
+            font-size: 40px;
+            line-height: 50px;
+        }
+        p {
+            font-size: 1rem;
+        }
+    }
+}
