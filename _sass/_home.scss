@@ -7,10 +7,11 @@
     background: -webkit-gradient(linear,left top,left bottom,from(rgba(22,22,22,.1)),color-stop(75%,rgba(22,22,22,.1)),to(#161616)),url('#{$bgHome}');
     background: linear-gradient(to bottom,rgba(22,22,22,.1) 0,rgba(22,22,22,.1) 75%,#161616 100%),url('#{$bgHome}');
     // background: url('#{$bgHome}');
-    background-position: center;
+    background-position: 50% 70%;
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
+    background-color: $black;
 
     h1 {
         font-size: 120px;
@@ -73,3 +74,22 @@
         }
     }
 }
+
+// @media (max-width: 456px) {
+//     .home-content {
+//         background: url('./img/FOMIX-mobile.png');
+//         background-position: top;
+//         background-repeat: no-repeat;
+//         background-attachment: scroll;
+//         background-size: cover;
+//         background-color: $black;
+//         padding: 5rem 0 20rem;
+//         h1 {
+//             font-size: 40px;
+//             line-height: 50px;
+//         }
+//         p {
+//             font-size: 1rem;
+//         }
+//     }
+// }
