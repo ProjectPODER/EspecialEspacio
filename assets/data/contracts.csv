@@ -1,28 +1,28 @@
 OCID,CONTRACT_TITLE,CONTRACT_TYPE,PROCUREMENT_METHOD,BUYER_NAME,SUPPLIER_NAMES,CONTRACT_START_DATE,CONTRACT_END_DATE,CONTRACT_AMOUNT,CONTRACT_CURRENCY
-N/A,equipo,Bienes,adjudicación directa,CCGS,Rodrigo García Morales,2017,N/A,8500,MX
-N/A,Materiales y consumibles,Gasto corriente,adjudicación directa,CCGS,Rodrigo García Morales,2017,N/A,1800,MX
-N/A,Prácticas de campo,Gasto corriente,adjudicación directa,CCGS,Rodrigo García Morales,2017,N/A,120000,MX
-N/A,"Fundamentals of Conservation Biology, Biodiversity: An Introduction, Bat Evolution, Ecology, and Conservation, Tropical Ecology",Bienes,adjudicación directa,CCGS,Rodrigo García Morales,2018,N/A,8083.83,MX
-N/A,ECOSIM: NULL MODELING SOFTWARE FOR ECOLOGISTS Software especializado para el análisis de patrones de diversidad de las comunidades ecológicas.,Bienes,adjudicación directa,CCGS,Rodrigo García Morales,2018,N/A,2100,MX
-N/A,Estancia de investigación en una institución extranjera por un periodo de 3 meses mínimo,Viáticos,adjudicación directa,CCGS,Rodrigo García Morales,2019,N/A,80000,MX
-N/A,"Despensa, hotel, viáticos peaje, trabajo de campo, gasolina etc.",Viáticos,adjudicación directa,CCGS,Perrer Charruau,2017,N/A,83344,MX
-N/A,"Para uso en prácticas de campo, pesolas sensores de sonido etc.",Bienes,adjudicación directa,CCGS,Perrer Charruau,2017,N/A,52950,MX
-N/A,Prácticas de campo,Gasto corriente,adjudicación directa,CCGS,Perrer Charruau,2018,N/A,82644,MX
-N/A,Prácticas de campo,Gasto corriente,adjudicación directa,CCGS,Perrer Charruau,2018,N/A,15000,MX
-N/A,Equipos,Bienes,adjudicación directa,CCGS,Perrer Charruau,2019,N/A,81944,MX
-N/A,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,adjudicación directa,CCGS,NICTE HA,2017,N/A,43350,MX
-N/A,Sensores de sonidos,Bienes,adjudicación directa,CCGS,NICTE HA,2018,N/A,48750,MX
-N/A,Súper computo,Bienes,adjudicación directa,CCGS,NICTE HA,2019,N/A,0,MX
-N/A,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,adjudicación directa,CCGS,NICTE HA,2017,N/A,46380,MX
-N/A,Sensores de sonidos,Bienes,adjudicación directa,CCGS,NICTE HA,2018,N/A,0,MX
-N/A,Súper computo,Bienes,adjudicación directa,CCGS,NICTE HA,2019,N/A,145000,MX
-N/A,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,adjudicación directa,CCGS,NICTE HA,2017,N/A,45900,MX
-N/A,Sensores de sonidos,Bienes,adjudicación directa,CCGS,NICTE HA,2018,N/A,0,MX
-N/A,Súper computo,Bienes,adjudicación directa,CCGS,NICTE HA,2019,N/A,0,MX
-N/A,Conducción y producción,Servicios,adjudicación directa,SJRTV,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2019,N/A,114999.98,MX
-N/A,Conducción y producción,Servicios,adjudicación directa,SJRTV,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2020,N/A,119833.33,MX
-N/A,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,adjudicación directa,SIOP,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2018,N/A,1500000,MX
-N/A,CRIDE,Inmuebles,N/A,AEM,SEDENA,,N/A,80000000,MX
-N/A,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,N/A,SIOP,Constructora Tlajomulco S.A. de C.V.,2018,N/A,35799999.83,MX
-N/A,CONSTRUCCIÓN DE CENTRO INTERACTIVO PLANETARIO,Inmuebles,N/A,SIOP,Constructora Tlajomulco S.A. de C.V.,2017,N/A,27934990.52,MX
-N/A,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,N/A,SIOP,Constructora Tlajomulco S.A. de C.V.,2018,N/A,48635769.71,MX
+1,equipo,Bienes,Rodrigo García Morales,CCGS,Rodrigo García Morales,2017,N/A,8500,MX
+2,Materiales y consumibles,Gasto corriente,Rodrigo García Morales,CCGS,Rodrigo García Morales,2017,N/A,1800,MX
+3,Prácticas de campo,Gasto corriente,Rodrigo García Morales,CCGS,Rodrigo García Morales,2017,N/A,120000,MX
+4,"Fundamentals of Conservation Biology, Biodiversity: An Introduction, Bat Evolution, Ecology, and Conservation, Tropical Ecology",Bienes,Rodrigo García Morales,CCGS,Rodrigo García Morales,2018,N/A,8083.83,MX
+5,ECOSIM: NULL MODELING SOFTWARE FOR ECOLOGISTS Software especializado para el análisis de patrones de diversidad de las comunidades ecológicas.,Bienes,Rodrigo García Morales,CCGS,Rodrigo García Morales,2018,N/A,2100,MX
+6,Estancia de investigación en una institución extranjera por un periodo de 3 meses mínimo,Viáticos,Rodrigo García Morales,CCGS,Rodrigo García Morales,2019,N/A,80000,MX
+7,"Despensa, hotel, viáticos peaje, trabajo de campo, gasolina etc.",Viáticos,Perrer Charruau,CCGS,Perrer Charruau,2017,N/A,83344,MX
+8,"Para uso en prácticas de campo, pesolas sensores de sonido etc.",Bienes,Perrer Charruau,CCGS,Perrer Charruau,2017,N/A,52950,MX
+9,Prácticas de campo,Gasto corriente,Perrer Charruau,CCGS,Perrer Charruau,2018,N/A,82644,MX
+10,Prácticas de campo,Gasto corriente,Perrer Charruau,CCGS,Perrer Charruau,2018,N/A,15000,MX
+11,Equipos,Bienes,Perrer Charruau,CCGS,Perrer Charruau,2019,N/A,81944,MX
+12,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,NICTE HA,CCGS,NICTE HA,2017,N/A,43350,MX
+13,Sensores de sonidos,Bienes,NICTE HA,CCGS,NICTE HA,2018,N/A,48750,MX
+14,Súper computo,Bienes,NICTE HA,CCGS,NICTE HA,2019,N/A,0,MX
+15,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,NICTE HA,CCGS,NICTE HA,2017,N/A,46380,MX
+16,Sensores de sonidos,Bienes,NICTE HA,CCGS,NICTE HA,2018,N/A,0,MX
+17,Súper computo,Bienes,NICTE HA,CCGS,NICTE HA,2019,N/A,145000,MX
+18,"Despensa, viáticos, peaje, trabajo de campo, gasolina, Etc.",Viáticos,NICTE HA,CCGS,NICTE HA,2017,N/A,45900,MX
+19,Sensores de sonidos,Bienes,NICTE HA,CCGS,NICTE HA,2018,N/A,0,MX
+20,Súper computo,Bienes,NICTE HA,CCGS,NICTE HA,2019,N/A,0,MX
+21,Conducción y producción,Servicios,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,SJRTV,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2019,N/A,114999.98,MX
+22,Conducción y producción,Servicios,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,SJRTV,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2020,N/A,119833.33,MX
+23,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,SIOP,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,2018,N/A,1500000,MX
+24,CRIDE,Inmuebles,SEDENA,AEM,SEDENA,,N/A,80000000,MX
+25,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,Constructora Tlajomulco S.A. de C.V.,SIOP,Constructora Tlajomulco S.A. de C.V.,2018,N/A,35799999.83,MX
+26,CONSTRUCCIÓN DE CENTRO INTERACTIVO PLANETARIO,Inmuebles,Constructora Tlajomulco S.A. de C.V.,SIOP,Constructora Tlajomulco S.A. de C.V.,2017,N/A,27934990.52,MX
+27,CONSTRUCCIÓN DEL PARQUE BIENESTAR CENTRO INTERACTIVO DE CIENCIA E INNOVACIÓN Y PLANETARIO,Inmuebles,Constructora Tlajomulco S.A. de C.V.,SIOP,Constructora Tlajomulco S.A. de C.V.,2018,N/A,48635769.71,MX
