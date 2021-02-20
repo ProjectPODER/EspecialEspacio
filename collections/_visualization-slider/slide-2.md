@@ -1,5 +1,5 @@
 ---
-title: Slide 2
+title: Proveedores
 image: visualization-example.png
 ---
 
