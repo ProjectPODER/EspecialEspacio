@@ -1,5 +1,5 @@
 ---
-title: Slide 3
+title: Contratos por proveedor
 image: visualization-example.png
 ---
 
