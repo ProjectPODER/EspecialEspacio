@@ -1,5 +1,5 @@
 ---
-title: Slide 4
+title: Montos por proveedores
 image: visualization-example.png
 ---
 
