@@ -12,4 +12,3 @@ Un planetario en Jalisco, un centro de investigación espacial en el Estado de M
 [Los reportajes](https://fomix.poderlatam.org/#/posts/)
 [Website iframe version](https://towerbuilder.poderlatam.org/?iframe)
 [Visualization iframe](https://towerbuilder.poderlatam.org/iframe-visualization/)
-[Slider iframe](https://towerbuilder.poderlatam.org/iframe-slider/)
