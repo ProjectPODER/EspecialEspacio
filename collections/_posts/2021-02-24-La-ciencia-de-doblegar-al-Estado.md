@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Welcome
+title: La ciencia de doblegar al Estado
 author: "Ricardo Balderas"
 ---
 
-##La ciencia de doblegar al Estado
+## La ciencia de doblegar al Estado
 
 Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía Méxicoleaks.
 
