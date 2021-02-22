@@ -16,12 +16,12 @@
     h1 {
         font-size: 120px;
         line-height: 125px;
-        margin-bottom: 3rem;
+        // margin-bottom: 3rem;
         font-weight: bolder;
         color: #F5CF70;
         text-shadow: #49043f 6px 5px 1px;
     }
-    
+
     h1,
     p {
         color: $white;
@@ -44,7 +44,7 @@
         display: inline-block;
         background-color: rgba(0,0,0,0.2);
         color: white;
-        padding: 20px;
+        padding: 0 20px;
         border-radius: 1em;
         text-shadow: black 0 0 5px;
         box-shadow: 0 0 50px rgba(0,0,0,0.4);

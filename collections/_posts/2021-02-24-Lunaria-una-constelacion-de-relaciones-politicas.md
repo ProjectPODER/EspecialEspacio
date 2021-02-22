@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lunaria: una constelación de relaciones políticas
+title: "Lunaria: una constelación de relaciones políticas"
 author: "Ricardo Balderas"
 ---
 
