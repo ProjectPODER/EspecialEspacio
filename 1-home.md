@@ -4,7 +4,7 @@ title: Inicio
 permalink: /
 ---
 
-# FOMIX
+# FOMIX, la "ciencia" de bajar recursos
 
 {:.main-text}
 ¿Qué tienen en común un planetario en Jalisco, un centro de investigación espacial en el Estado de México y dos asociaciones civiles? Todas se beneficiaron de 194,971,339.2 pesos que el Consejo Nacional de Ciencia y Tecnología (Conacyt) había destinado para el desarrollo científico del país, a través de sus Fondos Mixtos, o “FOMIX”, que son fideicomisos para los estados. También, todas ellas hicieron uso irregular del dinero. 
