@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Una constelación de relaciones políticas
+title: El segundo planetario
 permalink: /una-constelacion-de-relaciones-politicas/
 author: "Ricardo Balderas"
 ---
