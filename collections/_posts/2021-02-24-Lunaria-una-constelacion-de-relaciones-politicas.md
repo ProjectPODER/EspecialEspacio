@@ -8,7 +8,7 @@ A pesar de que Lunaria, un proyecto de ciencia en Jalisco, ya ha costado más de
 
 De los 129 millones de pesos que ha costado hasta ahora Lunaria, 60 mdp provienen de Fondos Mixtos (FOMIX), del Consejo Nacional de Ciencia y Tecnología (Conacyt), fideicomisos para apoyar el desarrollo de la ciencia en los estados. Pero el dinero parece seguir sin ser suficiente. 
 
-# La historia contractual de una estrella que no lo fue
+**La historia contractual de una estrella que no lo fue**
 
 En 2018, como uno de los actos finales de su mandato, Aristóteles Sandoval, a través del Gobierno del Estado de Jalisco pidió crear un Organismo Desconcentrado denominado “Lunaria”, con el que se solicitarían 60 millones de pesos de los FOMIX de Conacyt, con el objetivo de equipar una de las últimas obras públicas del priismo, y que en ese momento únicamente tendría un costo de 68 millones de pesos, según las narraciones de las autoridades2. El acto quedaría registrado en el decreto DIGELAG DEC 013/2018.
 
@@ -27,7 +27,7 @@ Los contratistas de la firma Muñoz Villa son difíciles de localizar. Este medi
 Respecto a los procesos con las empresas, el actual director de Lunaria, Alfonso Islas, reconoció que no han concluido pero, en lo que respecta a la familia Toussaint, sigue en contacto con ellos para encontrar la manera de concluir la obra.
 
 
-# Los vestigios de un contrato transexenal
+**Los vestigios de un contrato transexenal**
 
 La recién llegada administración de Enrique Alfaro Ramírez, decidió, sin investigación de por medio y a través de un nuevo decreto (DIGELAG DEC 010/2020), abrogar el anterior (promulgado por Sandoval Díaz) y desaparecer el Órgano Desconcentrado. Y durante todo 2019, Lunaria dependió de la Secretaría de Cultura hasta la mitad de 2020, cuando fue transferida a la Secretaría de Innovación, Ciencia y Tecnología, liderada por Alfonso Pompa Padilla. 
 
