@@ -10,7 +10,7 @@ Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conac
 
 El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja al objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el Foro Consultivo Científico y Tecnológico (Foro A.C.), destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
 
-# Gastan dinero sin reportar un peso
+**Gastan dinero sin reportar un peso**
 
 El Centro del Cambio Climático Global y la Sustentabilidad fue constituido en el estado de Tabasco frente al notario público 32°, en julio de 2012 y administrado hasta 2019 por Rafael Loyola Díaz, recientemente difunto. El Conacyt fue integrado al acta constitutiva del CCCGS, A.C., y no es público quién acepto el acuerdo, pero a través de Méxicoleaks llegó el correo electrónico original en el que Loyola Díaz y Elsa Blum, directora de coordinación regional de Conacyt en julio 2019, acuerdan una aportación obligatoria de 11 millones de pesos sin necesidad de convocatoria o licitación.
 
@@ -22,7 +22,7 @@ También contrasta la actividad con la falta de resultados: “Después de una b
 
 Hay que destacar que la Ley General de Bienes Públicos no contempla que los materiales que emergen de estas asociaciones se encuentren en la categoría de patrimonio, por lo que todas las investigaciones que resultan de los trabajos financiados con presupuesto público podrían terminar en manos de particulares. 
 
-# Los antecedentes del CCCGS
+**Los antecedentes del CCCGS**
 
 Pese a que en el acta constitutiva de la A.C. (también en manos de este medio de comunicación) se establece en su artículo séptimo que queda expresamente prohibida todo tipo de actividad o propaganda de carácter político haciendo uso del nombre de la asociación, el académico Rafael Loyola Díaz junto a Juan Pedro Laclette San Román, exdirector del Foro Consultivo Científico y Tecnológico A.C., fueron registrados como participantes de la Comisión Temática de Ciencia y Tecnología del Partido Revolucionario Institucional (PRI).
 
@@ -30,7 +30,7 @@ En el acta también se estipulan como representantes legales a Gerardo Guerrero 
 
 Gerardo Guerrero Pérez fue promovido por el entonces gobernador de Tabasco, Andrés Granier Melo (uno de los hombres más corruptos de México según la revista Forbes1); por su parte Arámburo de la Hoz, fue propuesta por el ex secretario del gabinete priista, José Narro Robles; mientras que el ex titular de Conacyt, Enrique Villa Rivera, fue quien dio poderes a Saldivar Chávez. Posteriormente, en acuerdo general de los miembros, se nombraría como representante de dicho grupo a Salvador Mora Gallegos.
 
-# El esquema de precarización laboral
+**El esquema de precarización laboral**
 
 Una dificultad más es la falta de claridad respecto a las contrataciones. La Ley Federal de Responsabilidad de los Servidores Públicos tampoco contempla como “trabajadores del Estado” a quienes sean contratados por esta vía, por lo que sus funcionarios, que sí reciben un sueldo del erario, quedan exentos de algunas obligaciones, como la presentación de declaración patrimonial o el acatamiento de los tabuladores salariales federales.
 
