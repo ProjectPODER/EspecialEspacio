@@ -4,13 +4,13 @@ title: "Lunaria: una constelación de relaciones políticas"
 author: "Ricardo Balderas"
 ---
 
-A pesar de que Lunaria, un proyecto de ciencia en Jalisco, ya ha costado más de tres veces su costo inicial, “el planetario más moderno de América”, como lo calificó el 8 de diciembre de 2017 el entonces gobernador de Jalisco, Jorge Aristóteles Sandoval Díaz1, actualmente opera incompleto. A las empresas que se les contrató para el desarrollo del planetario les faltó construir una cafetería, una tienda de recuerdos, los juegos del parque que se encuentra frente al pabellón y al domo, así como el terminar la consolidación de una barda perimetral, según afirmó para PODER Alfonso Islas, responsable del proyecto desde que inició la administración de Enrique Alfaro.
+A pesar de que Lunaria, un proyecto de ciencia en Jalisco, ya ha costado más de tres veces su costo inicial, “el planetario más moderno de América”, como lo calificó el 8 de diciembre de 2017 el entonces gobernador de Jalisco, [Jorge Aristóteles Sandoval Díaz](https://www.facebook.com/watch/?v=10156062852724180), actualmente opera incompleto. A las empresas que se les contrató para el desarrollo del planetario les faltó construir una cafetería, una tienda de recuerdos, los juegos del parque que se encuentra frente al pabellón y al domo, así como el terminar la consolidación de una barda perimetral, según afirmó para PODER Alfonso Islas, responsable del proyecto desde que inició la administración de Enrique Alfaro.
 
 De los 129 millones de pesos que ha costado hasta ahora Lunaria, 60 mdp provienen de Fondos Mixtos (FOMIX), del Consejo Nacional de Ciencia y Tecnología (Conacyt), fideicomisos para apoyar el desarrollo de la ciencia en los estados. Pero el dinero parece seguir sin ser suficiente. 
 
 **La historia contractual de una estrella que no lo fue**
 
-En 2018, como uno de los actos finales de su mandato, Aristóteles Sandoval, a través del Gobierno del Estado de Jalisco pidió crear un Organismo Desconcentrado denominado “Lunaria”, con el que se solicitarían 60 millones de pesos de los FOMIX de Conacyt, con el objetivo de equipar una de las últimas obras públicas del priismo, y que en ese momento únicamente tendría un costo de 68 millones de pesos, según las narraciones de las autoridades2. El acto quedaría registrado en el decreto DIGELAG DEC 013/2018.
+En 2018, como uno de los actos finales de su mandato, Aristóteles Sandoval, a través del Gobierno del Estado de Jalisco pidió crear un Organismo Desconcentrado denominado “Lunaria”, con el que se solicitarían 60 millones de pesos de los FOMIX de Conacyt, con el objetivo de equipar una de las últimas obras públicas del priismo, y que en ese momento únicamente tendría un costo de 68 millones de pesos, según las narraciones de las [autoridades](https://udgtv.com/noticias/costo-lunaria-mas-proyectado/). El acto quedaría registrado en el decreto DIGELAG DEC 013/2018.
 
 Las empresas a las que se le delegó la responsabilidad de la construcción fueron varías, pero el 90% de todos los fondos ejecutados (127 mdp), se concentró en dos grupos específicos de empresarios locales. Por un lado, contratos para Grupo Arquitectos Toussaint y Orendain, S.C, de la poderosa familia Toussaint; y por el otro, los contratos más onerosos para Constructora Tlajomulco, S.A. de C.V. y Constructora e Inmobiliaria Muñoz Villa, S.A. de C.V., ambas de Jesús Muñoz Rojas y Luis Muñoz de Alba.
 
@@ -18,7 +18,7 @@ Constructora Tlajomulco S.A. de C.V., recibió al menos 3 contratos para la elab
 
 Por otra parte la empresa Constructora e Inmobiliaria Muñoz Villa S.A. de C.V. recibió, según los reportes de auditorías al proyecto, con folio 1620/DGVCO-DOD/2020, en manos de PODER , 1,499,650 pesos por el concepto de conclusión del planetario Lunaria.
 
-Sobre el contrato de Grupo de Arquitectos Toussaint y Orendáin, S.C., 1.5 millones de pesos fueron emitidos, por asignación directa, con el objeto de construir una fracción del parque bienestar Centro Interactivo de Ciencia e Innovación y Planetario3. Según explicó Islas, el actual titular de Lunaria, la familia se encuentra en conversaciones con él para concluir la obra. 
+Sobre el contrato de Grupo de Arquitectos Toussaint y Orendáin, S.C., 1.5 millones de pesos fueron emitidos, por asignación directa, con el objeto de construir una fracción del parque bienestar Centro Interactivo de Ciencia e Innovación y [Planetario](https://udgtv.com/noticias/costo-lunaria-mas-proyectado/). Según explicó Islas, el actual titular de Lunaria, la familia se encuentra en conversaciones con él para concluir la obra. 
 
 Otro dato a resaltar es que Carlos Eduardo Villa Herrejón, quien aparece junto con los Muñoz, como socio de la firma Constructora e Inmobiliaria Muñoz Villa, también era perito en septiembre de 2016 de la Dirección General de Obras Públicas en el municipio de Zapopan, Jalisco, con el número de registro 0073.
 
@@ -37,7 +37,7 @@ Enrique Toussaint no tuvo problema en pasar de una administración a otra. Él r
 
 Antes de recibir el cargo como coordinador de las Mesas Ciudadanas de Consulta de Jalisco para analizar la permanencia de la entidad en el Pacto Fiscal Federal (arreglo con que los estados de la Federación han decidido repartir las facultades tributarias para recaudar y asignar el gasto). Pero rechaza rotundamente que sean el motivo del nombramiento. 
 
-Tras varias críticas a las mesas de consulta, donde se señaló a Enrique Toussaint de ser aliado del afarismo y que, dos integrantes más de las mismas Mesas Ciudadanas, María Marván y Mauricio Merino, habían cobrado por asesorías al partido Movimiento Ciudadano4, Toussaint tuvo que declarar ante la prensa que él jamás había recibido contratos por “ningún gobierno naranja”. 
+Tras varias críticas a las mesas de consulta, donde se señaló a Enrique Toussaint de ser aliado del afarismo y que, dos integrantes más de las mismas Mesas Ciudadanas, María Marván y Mauricio Merino, habían cobrado por asesorías al partido [Movimiento Ciudadano](https://www.ntrguadalajara.com/post.php?id_nota=161950), Toussaint tuvo que declarar ante la prensa que él jamás había recibido contratos por “ningún gobierno naranja”. 
 
 Toussaint trabajó 11 meses para el SJRTV cobrando 25,000 pesos mensuales. Y el motivo por el cual realizó los cobros con la empresa de la familia fue que había concretado ser socio de la firma. 
 
@@ -47,8 +47,8 @@ Suman un total de 234,832 pesos correspondientes a meses entre los años anterio
 
 Sobre la documentación probatoria del cómo recibió la totalidad de su salario, el periodista comentó: “esas son decisiones al interior y no tengo por qué hacerlo público”. PODER buscó también al director del SJRTV, Alejandro Tavares para que explicara la contratación de la firma Toussaint para canal 7, y el por qué, en su apartado de transparencia, Grupo Arquitectos Toussaint y Orendain, S.C. es la única empresa que no entregó los informes de actividades de los últimos 3 meses de 2020. El funcionario público prometió que entregaría su respuesta vía WhatsApp. Hasta el momento del cierre de esta edición no ha habido respuesta. 
 
-Es importante señalar que el nombramiento de Alejandro Tavares como director del SJRTV también fue cuestionado. En abril de 2019 la Asociación Mexicana de Derecho a la Información (AMDEI edición Jalisco) se pronunció en contra del nombramiento de Tavares frente al Sistema Jalisciense de Radio y Televisión debido a que el director también fue candidato a la presidencia municipal de Zapopan en 2009 por el entonces partido Convergencia, hoy Movimiento Ciudadano (MC)5.
-
+Es importante señalar que el nombramiento de Alejandro Tavares como director del SJRTV también fue cuestionado. En abril de 2019 la Asociación Mexicana de Derecho a la Información (AMDEI edición Jalisco) se pronunció en contra del nombramiento de Tavares frente al Sistema Jalisciense de Radio y Televisión debido a que el director también fue candidato a la presidencia municipal de Zapopan en 2009 por el entonces [partido Convergencia, hoy Movimiento Ciudadano (MC)](https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054).
+https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054
 
 
 
