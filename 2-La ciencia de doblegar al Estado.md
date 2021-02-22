@@ -1,7 +1,7 @@
 ---
 layout: page
 title: La ciencia de doblegar al Estado
-permalink: /una-constelacion-de-relaciones-politicas/
+permalink: /la-ciencia-de-doblegar-al-Estado/
 ---
 
 ## La ciencia de doblegar al Estado
