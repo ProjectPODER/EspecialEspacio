@@ -8,7 +8,7 @@ Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el es
 
 Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de México. Los FOMIX son fideicomisos que sirven para desarrollar la ciencia en los estados y son algunos de los desaparecidos por Morena1. Después de un año de haber solicitado el dinero, el proyecto terminó siendo gestionado por la Secretaría de la Defensa Nacional (SEDENA), entonces dirigida por el ex alto mando militar, Salvador Cienfuegos. 
 
-# Inicio y declive del proyecto 
+**Inicio y declive del proyecto**
 
 El proyecto de la AEM inició el 1 de febrero de 2016 con el oficio EDOMEX-2016-02-01-279466. En dicho documento se delegaba a la firma Edificatio, S.A. de C.V. la construcción del CRIDE y en las especificaciones del contrato se solicitó que fuera ejercido en un periodo de 20 meses desarrollados en 3 etapas. Es decir, debió concluir en noviembre de 2017. 
 
@@ -26,7 +26,7 @@ A pesar de lo expuesto, los inspectores de Conacyt insistieron en la solicitud d
 
 No hubo una terminación efectiva del proyecto, tanto así que actualmente, la AEM tiene activo hasta por los próximos 24 años el convenio de colaboración con la SEDENA. En el Diario Oficial de la Federación se publicó el 22 de diciembre 2020 un acuerdo por el que se aprueba el Programa Institucional de la Agencia Espacial Mexicana. En dicho documento se reporta que uno de los principales retos de este proyecto es justamente su financiación, pero no estipulan de dónde obtendrán los fondos3. Ese año y ya sin FOMIX Conacyt involucrado, la AEM seguía hablando de la construcción del CRIDE Atlacomulco4, a manos de la SEDENA, con la esperanza de tener 70 millones de pesos en el presupuesto de 2021. 
 
-# El plagio y las violaciones contractuales
+**El plagio y las violaciones contractuales**
 
 En cuanto a la investigación refiere, el proceso comenzó el 6 de junio de 2019. Ese día, en el oficio FD000/FMEDOMEX/19/043, Tiburcio Montalvo Naranjo, responsable administrativo de Conacyt, solicitó información fiscal con el objetivo de presentar un informe de evaluación del proyecto denominado CRIDE. 
 
