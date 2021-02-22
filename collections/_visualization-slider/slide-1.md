@@ -5,4 +5,4 @@ image: visualization-example.png
 
 # Monto total
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+194,971,339.20 pesos provenientes de los fideicomisos conocidos como Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), fueron aprovechados por la Secretaría de la Defensa Nacional, el Gobierno de Jalisco, la Agencia Espacial Mexicana, el Centro de Cambio Climático Global y la Sustentabilidad A.C. y la Academia Mexicana de la Ciencia, estas últimas Asociaciones Civiles, para desarrollar proyectos plagados de irregularidades, o bien, precarizar el trabajo científico.
