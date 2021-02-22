@@ -4,11 +4,11 @@ title: La ciencia de doblegar al Estado
 author: "Ricardo Balderas"
 ---
 
-Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía Méxicoleaks.
+Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía [Méxicoleaks](https://mexicoleaks.mx/).
 
 Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conacyt y que tienen como objetivo ayudar a desarrollar proyectos científicos en las entidades federativas donde el presupuesto a la investigación es escaso. 
 
-El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja al objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el Foro Consultivo Científico y Tecnológico (Foro A.C.), destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
+El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja al objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el [Foro Consultivo Científico y Tecnológico (Foro A.C.)](https://lamafiadelaciencia.poderlatam.org/), destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
 
 **Gastan dinero sin reportar un peso**
 
@@ -28,7 +28,7 @@ Pese a que en el acta constitutiva de la A.C. (también en manos de este medio d
 
 En el acta también se estipulan como representantes legales a Gerardo Guerrero Pérez, en su calidad de representante del Poder Ejecutivo de Tabasco; Carlos Arámburo de la Hoz, como representante de la Universidad Autónoma de México (UNAM); María Antonieta Saldivar Chávez, por Conacyt; y Wilfrido Miguel Contreras Sánchez, en nombre de la Universidad Juárez Autónoma de Tabasco.
 
-Gerardo Guerrero Pérez fue promovido por el entonces gobernador de Tabasco, Andrés Granier Melo (uno de los hombres más corruptos de México según la revista Forbes1); por su parte Arámburo de la Hoz, fue propuesta por el ex secretario del gabinete priista, José Narro Robles; mientras que el ex titular de Conacyt, Enrique Villa Rivera, fue quien dio poderes a Saldivar Chávez. Posteriormente, en acuerdo general de los miembros, se nombraría como representante de dicho grupo a Salvador Mora Gallegos.
+Gerardo Guerrero Pérez fue promovido por el entonces gobernador de Tabasco, Andrés Granier Melo (uno de los hombres más corruptos de México según la revista [Forbes](https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/)); por su parte Arámburo de la Hoz, fue propuesta por el ex secretario del gabinete priista, José Narro Robles; mientras que el ex titular de Conacyt, Enrique Villa Rivera, fue quien dio poderes a Saldivar Chávez. Posteriormente, en acuerdo general de los miembros, se nombraría como representante de dicho grupo a Salvador Mora Gallegos.
 
 **El esquema de precarización laboral**
 
@@ -43,7 +43,7 @@ La investigadora Batsy Acosta Mayorga, quien también fue trabajadora de la AMC 
 
 “Cuando nos despidieron a todos, sólo recontrataron al grupo selecto por la coordinadora, que son los sueldos más altos de la Academia, van de 39,000 a 100,000 (pesos), y justo denunciamos el nepotismo y amiguismo que maneja esta coordinadora puesto que en varias áreas todos son familiares y no tienen la documentación (título) para desempeñarse como coordinadoras de áreas ni para recibir esos sueldos”, explicó la académica. 
 
-Según la información proporcionada, la coordinadora de la que habla la quejosa, se trata de Renata Villalba quien ha ostentado el cargo por más de 20 años y las percepciones de las que se le señala son montos mensuales2. 
+Según la información proporcionada, la coordinadora de la que habla la quejosa, se trata de Renata Villalba quien ha ostentado el cargo por más de 20 años y las percepciones de las que se le señala son montos [mensuales](https://www.jornada.com.mx/2020/10/19/opinion/024a2pol). 
 
 En este contexto, la falta de regulación de fondos para los aparatos científicos han logrado doblegar a las autoridades, no sólo en lo que concierne a las contrataciones y privilegios que derivan de la creación de espacios privados financiados con dinero público, sino con un sistema que parece que seguirá despojando derechos laborales para uno de los sectores más indispensables de la sociedad.
 
