@@ -9,6 +9,6 @@ permalink: /
 {:.main-text}
 Un planetario en Jalisco, un centro de investigación espacial en el Estado de México y dos asociaciones civiles tienen en común ser beneficiarias de los Fondos Mixtos, o FOMIX, del Consejo Nacional de Ciencia y Tecnología (Conacyt), que son fideicomisos para impulsar la ciencia. La poca regulación y vigilancia de estos fondos resultó en la aparición de elefantes blancos so pretexto de impulsar la ciencia.
 
-[Los reportajes](https://fomix.poderlatam.org/#/posts/)
-[Website iframe version](https://towerbuilder.poderlatam.org/?iframe)
-[Visualization iframe](https://towerbuilder.poderlatam.org/iframe-visualization/)
+[Los FOMIX narrados](https://fomix.poderlatam.org/#/posts/)
+
+[Los contratos espaciales](https://towerbuilder.poderlatam.org/iframe-visualization/)
