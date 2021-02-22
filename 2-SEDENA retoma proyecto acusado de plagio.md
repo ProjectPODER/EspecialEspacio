@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sedena retoma proyecto acusado de plagio
+title: Satélites sin armar
 permalink: /SEDENA-retoma-proyecto-acudado-de-plagio/
 author: "Ricardo Balderas"
 ---
