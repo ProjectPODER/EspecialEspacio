@@ -68,10 +68,10 @@ Es importante señalar que el nombramiento de Alejandro Tavares como director de
 
 
 
-[^nota1]: https://www.facebook.com/watch/?v=10156062852724180
-[^nota2]: https://udgtv.com/noticias/costo-lunaria-mas-proyectado/
-[^nota3]: https://udgtv.com/noticias/costo-lunaria-mas-proyectado/
-[^nota4]: https://www.ntrguadalajara.com/post.php?id_nota=161950
-[^nota5]: https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054
+[^nota1]: [https://www.facebook.com/watch/?v=10156062852724180](https://www.facebook.com/watch/?v=10156062852724180)
+[^nota2]: [https://udgtv.com/noticias/costo-lunaria-mas-proyectado/](https://udgtv.com/noticias/costo-lunaria-mas-proyectado/)
+[^nota3]: [https://udgtv.com/noticias/costo-lunaria-mas-proyectado/](https://udgtv.com/noticias/costo-lunaria-mas-proyectado/)
+[^nota4]: [https://www.ntrguadalajara.com/post.php?id_nota=161950](https://www.ntrguadalajara.com/post.php?id_nota=161950)
+[^nota5]: [https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054](https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054)
 
 
