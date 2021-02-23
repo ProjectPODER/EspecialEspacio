@@ -60,7 +60,7 @@ Según la información proporcionada, la coordinadora de la que habla la quejosa
 
 En este contexto, la falta de regulación de fondos para los aparatos científicos han logrado doblegar a las autoridades, no sólo en lo que concierne a las contrataciones y privilegios que derivan de la creación de espacios privados financiados con dinero público, sino con un sistema que parece que seguirá despojando derechos laborales para uno de los sectores más indispensables de la sociedad.
 
-[^nota1]: https://mexicoleaks.mx/
-[^nota2]: https://lamafiadelaciencia.poderlatam.org/
-[^nota3]: https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/
-[^nota4]: https://www.jornada.com.mx/2020/10/19/opinion/024a2pol
+[^nota1]: [https://mexicoleaks.mx/](https://mexicoleaks.mx/)
+[^nota2]: [https://lamafiadelaciencia.poderlatam.org/](https://lamafiadelaciencia.poderlatam.org/)
+[^nota3]: [https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/](https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/)
+[^nota4]: [https://www.jornada.com.mx/2020/10/19/opinion/024a2pol](https://www.jornada.com.mx/2020/10/19/opinion/024a2pol)
