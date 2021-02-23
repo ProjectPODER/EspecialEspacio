@@ -5,4 +5,4 @@ image: graph3.png
 
 # Los contratos y los montos
 
-Entre los seis proveedores, se emitieron 21 contratos, todos ellos entregados en la modalidad de adjudicación directa. La empresa que más contratos obtuvo, con nueve contratos, fue NICTE HA (proyecto de un grupo de investigadores del Centro del Cambio Climatico Global y la Sustentabilidad A.C.  (CCCGS) que recibieron fondos del Conacyt y se mantuvieron ocultos). Mientras que la razón social más beneficiada con fondos públicos fue Constructora Tlajomulco S.A. de C.V. que recibió 112,370,760 pesos, a través de sólo tres contratos.
+Entre los tres responsables de los proyectos o asociación civil, se emitieron 22 contratos, todos ellos entregados en la modalidad de adjudicación directa. El CCCGS fue quien hizo más contratos, con 16. En aquellos para dos científicos, los objetos de los contratos encontrados van desde 1,800 pesos para "equipos y materiales", hasta más de 83,000 pesos en despensas y viáticos. Mientras que la SIOP fue quien más dinero gastó en sus contrataciones, con sólo cinco, pagó 115,370,410.06 pesos para la construcción de Lunaria.
