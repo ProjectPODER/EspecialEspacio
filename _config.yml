@@ -36,7 +36,7 @@ graph:
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
-    - max: 300
+    - max: 400
   # colores de nodos y connectores
   - colours:
       - nodes:
