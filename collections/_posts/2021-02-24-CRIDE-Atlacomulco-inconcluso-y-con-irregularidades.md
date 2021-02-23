@@ -10,7 +10,7 @@ Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el es
 {:.image-post}
 ![T2_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T2_01.jpg)
 
-Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de México. Los FOMIX son fideicomisos que sirven para desarrollar la ciencia en los estados y son algunos de los desaparecidos por [Morena](https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/). Después de un año de haber solicitado el dinero, el proyecto terminó siendo gestionado por la Secretaría de la Defensa Nacional (SEDENA), entonces dirigida por el ex alto mando militar, Salvador Cienfuegos.
+Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de México. Los FOMIX son fideicomisos que sirven para desarrollar la ciencia en los estados y son algunos de los desaparecidos por Morena [^nota1]. Después de un año de haber solicitado el dinero, el proyecto terminó siendo gestionado por la Secretaría de la Defensa Nacional (SEDENA), entonces dirigida por el ex alto mando militar, Salvador Cienfuegos.
 
 **Inicio y declive del proyecto**
 
