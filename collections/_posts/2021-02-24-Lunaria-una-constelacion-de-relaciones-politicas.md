@@ -58,7 +58,7 @@ Suman un total de 234,832 pesos correspondientes a meses entre los años anterio
 Sobre la documentación probatoria del cómo recibió la totalidad de su salario, el periodista comentó: “esas son decisiones al interior y no tengo por qué hacerlo público”. PODER buscó también al director del SJRTV, para que explicara la contratación de la firma de Toussaint para canal 7, y el por qué, en su apartado de transparencia, Grupo Arquitectos Toussaint y Orendain, S.C. es la única empresa que no entregó los informes de actividades de los últimos 3 meses de 2020. El funcionario público prometió que entregaría su respuesta vía WhatsApp. Hasta el momento del cierre de esta edición no ha habido respuesta. 
 
 Es importante señalar que el nombramiento de Alejandro Tavares como director del SJRTV también fue cuestionado. En abril de 2019 la Asociación Mexicana de Derecho a la Información (AMDEI edición Jalisco) se pronunció en contra de dicho nombramiento debido a que el director también fue candidato a la presidencia municipal de Zapopan en 2009 por el entonces partido Convergencia, hoy Movimiento Ciudadano (MC) [^nota5].
-https://www.ntrguadalajara.com/post.php?id_nota=124566&fb_comment_id=2224850154258517_2227361450674054
+
 
 {:.image-post}
 ![T3_05. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T3_05.png)
