@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: Los reportajes
-permalink: /posts/
+permalink: /reportajes/
 ---
 
 # Los Reportajes
