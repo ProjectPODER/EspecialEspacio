@@ -55,8 +55,8 @@ Finalmente, los reportes de denuncias revelan que en los informes financieros (q
 Este medio de comunicación buscó entrevistas con las personas encargadas del proyecto en la AEM en 12 ocasiones entre el 11, 12 y 13 de febrero, incluido el intento al teléfono particular de la encargada del proyecto, Fernanda Macías, y se explicitó la fecha exacta de la publicación del reportaje; sin embargo, hasta el momento del cierre de esta edición, no hubo respuesta. La persona encargada de responder el conmutador de la Coordinación de financiamiento y gestión de la información, explicó que “la plantilla laboral actual es prácticamente nueva” y que y López Obrador “no tiene por qué responder por lo que hizo Peña (expresidente Enrique Peña Nieto)”.
 
 
-[^nota1]: https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/
-[^nota2]: https://www.eluniversal.com.mx/nacion/seguridad/sedena-construira-2-centros-de-desarrollo-espacial
-[^nota3]: http://www.dof.gob.mx/nota_detalle.php?codigo=5608451&fecha=22/12/2020
-[^nota4]: https://www.gob.mx/aem/prensa/impulsan-aem-y-diputadas-locales-del-estado-de-mexico-desarrollo-de-nanosatelites-255172?idiom=es
+[^nota1]: [https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/] (https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/)
+[^nota2]: [https://www.eluniversal.com.mx/nacion/seguridad/sedena-construira-2-centros-de-desarrollo-espacial] (https://www.eluniversal.com.mx/nacion/seguridad/sedena-construira-2-centros-de-desarrollo-espacial)
+[^nota3]: [http://www.dof.gob.mx/nota_detalle.php?codigo=5608451&fecha=22/12/2020] (http://www.dof.gob.mx/nota_detalle.php?codigo=5608451&fecha=22/12/2020)
+[^nota4]: [https://www.gob.mx/aem/prensa/impulsan-aem-y-diputadas-locales-del-estado-de-mexico-desarrollo-de-nanosatelites-255172?idiom=es] (https://www.gob.mx/aem/prensa/impulsan-aem-y-diputadas-locales-del-estado-de-mexico-desarrollo-de-nanosatelites-255172?idiom=es)
 
