@@ -4,6 +4,9 @@ title: AEM incumple contrucción de CRIDE
 author: "Ricardo Balderas"
 ---
 
+[T2_01](/images/T2_01.jpg)
+
+
 Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el escenario actual de lo que debió ser el Centro Regional de Innovación y Desarrollo Espacial en el Estado de México (CRIDE) en el Estado de México, que pretendía ser un moderno centro de armado satelital, según fotografías e información recibida por PODER vía Méxicoleaks. En 2016 la Agencia Mexicana Espacial (AEM), organismo desconcentrado de la Secretaría de Comunicaciones y Transportes (SCT), solicitó 80 millones de pesos al Consejo Nacional de Ciencia y Tecnología (Conacyt) para la construcción del CRIDE. Cuatro años después, el espacio está inconcluso y el dinero subejercido. 
 
 Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de México. Los FOMIX son fideicomisos que sirven para desarrollar la ciencia en los estados y son algunos de los desaparecidos por [Morena](https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/). Después de un año de haber solicitado el dinero, el proyecto terminó siendo gestionado por la Secretaría de la Defensa Nacional (SEDENA), entonces dirigida por el ex alto mando militar, Salvador Cienfuegos. 
@@ -13,6 +16,9 @@ Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de M�
 El proyecto de la AEM inició el 1 de febrero de 2016 con el oficio EDOMEX-2016-02-01-279466. En dicho documento se delegaba a la firma Edificatio, S.A. de C.V. la construcción del CRIDE y en las especificaciones del contrato se solicitó que fuera ejercido en un periodo de 20 meses desarrollados en 3 etapas. Es decir, debió concluir en noviembre de 2017. 
 
 Para septiembre de 2017 el proyecto no estaba listo. Y a pesar de los errores, la Agencia Espacial Mexicana, dirigida por Francisco Mendieta, decidió continuar con él, le retiró el proyecto a Edificatio y el 6 de septiembre de 2017 firmó un convenio con la SEDENA, al mando del exsecretario de la Defensa Nacional, Salvador Cienfuegos, para que ésta concluyera las [obras](https://www.eluniversal.com.mx/nacion/seguridad/sedena-construira-2-centros-de-desarrollo-espacial). Con ese acuerdo, la gendarmería anunció la construcción de dos Centros de Desarrollo Espacial, uno en Zacatecas capital y otro en Atlacomulco, Estado de México, el cual continuó en obras hasta 2019. 
+
+[T2_03](/images/T2_03.jpeg)
+[T2_02](/images/T2_02.jpeg)
 
 Según diferentes documentos en manos de PODER, en 2019, Conacyt solicitó a la AEM la terminación anticipada del proyecto después de hacer un peritaje, donde encontró el plagio de planos y otras irregularidades. También pidió la justificación del gasto del dinero
 
@@ -33,6 +39,9 @@ En cuanto a la investigación refiere, el proceso comenzó el 6 de junio de 2019
 Según lo estipulado en los archivos FD000/FMEDOMEX/19/043 y AEM-DG/2019-171, a los documentos del AEM les faltó la estimación detallada de gastos en obra civil posterior al día 12 de abril de 2019, así como los resguardos de los equipos justificados.
 
 Se determinó también que los planos de construcción presentados por Edificatio en la licitación de 2016, ya habían sido presentados anteriormente por la empresa Corporativo Profesional Cuellar, S.A. de C.V. para un proyecto de la Comisión Federal de Electricidad. Es decir, los planos plagiados fueron retomados por SEDENA únicamente con diferencias perimetrales.
+
+[T2_04](/images/T2_04.png)
+[T2_05](/images/T2_05.png)
 
 “Se identificaron irregularidades en la revisión del proyecto estructural en los planos entregados a nombre del Corporativo Profesional Cuellar, S.A de C.V., señalándose un nombre de proyecto distinto, con ubicación y autor diferentes al proyecto “Centro Regional de Innovación y Desarrollo Espacial en el Estado de México”, se puede leer en un documento de análisis del FOMIX, recibido vía Méxicoleaks.
 
