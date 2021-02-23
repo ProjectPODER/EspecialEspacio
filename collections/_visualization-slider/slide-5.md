@@ -1,6 +1,6 @@
 ---
 title: Beneficiados con FOMIX
-image: graph4.png
+image: graph5.png
 ---
 
 # Los grandes beneficiados
