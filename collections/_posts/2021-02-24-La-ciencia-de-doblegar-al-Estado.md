@@ -2,13 +2,14 @@
 layout: post
 title: La ciencia de doblegar al Estado
 author: "Ricardo Balderas"
+image: T1_01.png
 ---
 
+Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía [Méxicoleaks](https://mexicoleaks.mx/).
 
 {:.image-post}
 ![T1_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_01.png)
 
-Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía [Méxicoleaks](https://mexicoleaks.mx/).
 
 Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conacyt y que tienen como objetivo ayudar a desarrollar proyectos científicos en las entidades federativas donde el presupuesto a la investigación es escaso. 
 

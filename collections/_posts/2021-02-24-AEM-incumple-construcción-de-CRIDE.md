@@ -2,14 +2,14 @@
 layout: post
 title: CRIDE Atlacomulco inconcluso y con irregularidades
 author: "Ricardo Balderas"
+image: T2_01.jpg
 ---
 
+Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el escenario actual de lo que debió ser el Centro Regional de Innovación y Desarrollo Espacial en el Estado de México (CRIDE), que pretendía ser un moderno centro de armado satelital, según fotografías e información recibida por PODER vía Méxicoleaks. En 2016 la Agencia Mexicana Espacial (AEM), organismo desconcentrado de la Secretaría de Comunicaciones y Transportes (SCT), solicitó 80 millones de pesos al Consejo Nacional de Ciencia y Tecnología (Conacyt) para la construcción del CRIDE. Cuatro años después, el espacio está inconcluso y el dinero subejercido. 
 
 {:.image-post}
 ![T2_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T2_01.jpg)
 
-
-Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el escenario actual de lo que debió ser el Centro Regional de Innovación y Desarrollo Espacial en el Estado de México (CRIDE), que pretendía ser un moderno centro de armado satelital, según fotografías e información recibida por PODER vía Méxicoleaks. En 2016 la Agencia Mexicana Espacial (AEM), organismo desconcentrado de la Secretaría de Comunicaciones y Transportes (SCT), solicitó 80 millones de pesos al Consejo Nacional de Ciencia y Tecnología (Conacyt) para la construcción del CRIDE. Cuatro años después, el espacio está inconcluso y el dinero subejercido. 
 
 Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de México. Los FOMIX son fideicomisos que sirven para desarrollar la ciencia en los estados y son algunos de los desaparecidos por [Morena](https://www.forbes.com.mx/fondo-desaparecido-por-morena-financio-un-centro-espacial-en-bastion-del-pri/). Después de un año de haber solicitado el dinero, el proyecto terminó siendo gestionado por la Secretaría de la Defensa Nacional (SEDENA), entonces dirigida por el ex alto mando militar, Salvador Cienfuegos. 
 
