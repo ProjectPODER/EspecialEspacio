@@ -6,7 +6,7 @@ author: "Ricardo Balderas"
 
 
 {:.image-post}
-![T2_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T2_01.png)
+![T2_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T2_01.jpg)
 
 
 Unos baños sin retrete, una bodega gigante y oficinas sin escritorios son el escenario actual de lo que debió ser el Centro Regional de Innovación y Desarrollo Espacial en el Estado de México (CRIDE) en el Estado de México, que pretendía ser un moderno centro de armado satelital, según fotografías e información recibida por PODER vía Méxicoleaks. En 2016 la Agencia Mexicana Espacial (AEM), organismo desconcentrado de la Secretaría de Comunicaciones y Transportes (SCT), solicitó 80 millones de pesos al Consejo Nacional de Ciencia y Tecnología (Conacyt) para la construcción del CRIDE. Cuatro años después, el espacio está inconcluso y el dinero subejercido. 
