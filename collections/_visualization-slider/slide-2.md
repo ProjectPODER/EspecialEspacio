@@ -1,6 +1,6 @@
 ---
 title: Proveedores
-image: visualization-example.png
+image: graph2.png
 ---
 
 # Tres historias, seis ganadores

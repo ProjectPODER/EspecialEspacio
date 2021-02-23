@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-image: visualization-example.png
+image: graph1.png
 ---
 
 # Los FOMIX, peso por peso

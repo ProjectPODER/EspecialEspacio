@@ -1,6 +1,6 @@
 ---
 title: Montos por proveedores
-image: visualization-example.png
+image: graph4.png
 ---
 
 # Los grandes beneficiados

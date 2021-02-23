@@ -1,6 +1,6 @@
 ---
 title: Contratos por proveedor
-image: visualization-example.png
+image: graph3.png
 ---
 
 # Los contratos y los montos

@@ -1426,11 +1426,11 @@ function setupFullPage() {
             $('.labelText.contract_type').addClass('active');
             break;
           case 3:
-            newZoom = 0.5;
+            newZoom = 1;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 4:
-            newZoom = 0.3;
+            newZoom = 0.7;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 5:
