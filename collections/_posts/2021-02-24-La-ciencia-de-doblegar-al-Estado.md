@@ -10,10 +10,9 @@ Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMI
 {:.image-post}
 ![T1_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_01.png)
 
-
 Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conacyt y que tienen como objetivo ayudar a desarrollar proyectos científicos en las entidades federativas donde el presupuesto a la investigación es escaso. 
 
-El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja del objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el [Foro Consultivo Científico y Tecnológico (Foro A.C.)](https://lamafiadelaciencia.poderlatam.org/), destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
+El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja del objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el Foro Consultivo Científico y Tecnológico (Foro A.C.) [^nota2], destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
 
 **Gastan dinero sin reportar un peso**
 
@@ -39,7 +38,7 @@ Pese a que en el acta constitutiva de la A.C. (también en manos de este medio d
 
 En el acta también se estipula como representantes legales a Gerardo Guerrero Pérez, en su calidad de representante del Poder Ejecutivo de Tabasco; Carlos Arámburo de la Hoz, como representante de la Universidad Nacional Autónoma de México (UNAM); María Antonieta Saldivar Chávez, por Conacyt; y Wilfrido Miguel Contreras Sánchez, en nombre de la Universidad Juárez Autónoma de Tabasco.
 
-Gerardo Guerrero Pérez fue promovido por el entonces gobernador de Tabasco, Andrés Granier Melo (uno de los hombres más corruptos de México según la revista [Forbes](https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/)); por su parte Arámburo de la Hoz, fue propuesta por el ex secretario del gabinete priista, José Narro Robles; mientras que el ex titular de Conacyt, Enrique Villa Rivera, fue quien dio poderes a Saldivar Chávez. Posteriormente, en acuerdo general de los miembros, se nombraría como representante de dicho grupo a Salvador Mora Gallegos.
+Gerardo Guerrero Pérez fue promovido por el entonces gobernador de Tabasco, Andrés Granier Melo (uno de los hombres más corruptos de México según la revista Forbes [^nota3]); por su parte Arámburo de la Hoz, fue propuesta por el ex secretario del gabinete priista, José Narro Robles; mientras que el ex titular de Conacyt, Enrique Villa Rivera, fue quien dio poderes a Saldivar Chávez. Posteriormente, en acuerdo general de los miembros, se nombraría como representante de dicho grupo a Salvador Mora Gallegos.
 
 **El esquema de precarización laboral**
 
@@ -57,7 +56,11 @@ La investigadora Batsy Acosta Mayorga, quien también fue trabajadora de la AMC 
 {:.image-post}
 ![T1_04. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_04.png)
 
-Según la información proporcionada, la coordinadora de la que habla la quejosa, se trata de Renata Villalba quien ha ostentado el cargo por más de 20 años y las percepciones que se le señalan son montos [mensuales](https://www.jornada.com.mx/2020/10/19/opinion/024a2pol). 
+Según la información proporcionada, la coordinadora de la que habla la quejosa, se trata de Renata Villalba quien ha ostentado el cargo por más de 20 años y las percepciones que se le señalan son montos mensuales [^nota4]. 
 
 En este contexto, la falta de regulación de fondos para los aparatos científicos han logrado doblegar a las autoridades, no sólo en lo que concierne a las contrataciones y privilegios que derivan de la creación de espacios privados financiados con dinero público, sino con un sistema que parece que seguirá despojando derechos laborales para uno de los sectores más indispensables de la sociedad.
 
+[^nota1]: https://mexicoleaks.mx/
+[^nota2]: https://lamafiadelaciencia.poderlatam.org/
+[^nota3]: https://www.forbes.com.mx/los-10-mexicanos-mas-corruptos-de-2013/
+[^nota4]: https://www.jornada.com.mx/2020/10/19/opinion/024a2pol
