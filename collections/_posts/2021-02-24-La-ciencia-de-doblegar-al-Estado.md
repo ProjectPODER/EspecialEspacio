@@ -14,6 +14,8 @@ Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conac
 
 El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja del objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el Foro Consultivo Científico y Tecnológico (Foro A.C.) [^nota2], destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
 
+![Ilustración: Dani Scharf]({{ site.baseurl }}/assets/img/FOMIX.png)
+
 **Gastan dinero sin reportar un peso**
 
 El Centro del Cambio Climático Global y la Sustentabilidad fue constituido en el estado de Tabasco frente al notario público 32°, en julio de 2012 y administrado hasta 2019 por Rafael Loyola Díaz, recientemente difunto. El Conacyt fue integrado al acta constitutiva del CCCGS, A.C., y no es público quién aceptó el acuerdo, pero a través de Méxicoleaks llegó el correo electrónico original en el que Loyola Díaz y Elsa Blum, directora de coordinación regional de Conacyt en julio 2019, acuerdan una aportación obligatoria de 11 millones de pesos sin necesidad de convocatoria o licitación.
