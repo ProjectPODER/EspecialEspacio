@@ -1434,7 +1434,7 @@ function setupFullPage() {
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 5:
-            newZoom = 0.20;
+            newZoom = 0.6;
             triggerUpdate(index, nextIndex, newZoom);
             break;
           case 6:
