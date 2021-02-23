@@ -1,6 +1,12 @@
 NOMBRE,TIPO DE ENTIDAD,RELACIONADO CON,TIPO DE RELACIÓN,PUESTO
-Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,Socio,Propietario
-Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,Socio,Propietario
-Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,Socio,Propietario
-Luis Muñoz de Alba,persona,Constructora Tlajomulco S.A. de C.V.,Socio,Propietario
-Jesus Muñoz Rojas,persona,Constructora Tlajomulco S.A. de C.V.,Socio,Propietario
+Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,empresa,,,
+Constructora Tlajomulco S.A. de C.V.,empresa,,,
+Constructora e Inmobiliaria Muñoz Villa S.A. de C.V.,empresa,,,
+Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,shareholder,Propietario
+Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,shareholder,Propietario
+Enrique Toussaint,persona,Grupo Arquitectos Toussaint Orendáin S.A. de C.V.,shareholder,Propietario
+Luis Muñoz de Alba,persona,Constructora Tlajomulco S.A. de C.V.,shareholder,Propietario
+Jesus Muñoz Rojas,persona,Constructora Tlajomulco S.A. de C.V.,shareholder,Propietario
+Luis Muñoz de Alba,persona,Constructora e Inmobiliaria Muñoz Villa S.A. de C.V.,shareholder,Propietario
+Jesus Muñoz Rojas,persona,Constructora e Inmobiliaria Muñoz Villa S.A. de C.V.,shareholder,Propietario
+Carlos Eduardo Villa Herrejón,persona,Constructora e Inmobiliaria Muñoz Villa S.A. de C.V.,shareholder,Propietario
