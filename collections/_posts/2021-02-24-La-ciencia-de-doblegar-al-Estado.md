@@ -14,7 +14,7 @@ Los FOMIX son fideicomisos que surgen del Programa Presupuestario (PP) del Conac
 
 El problema es que cada vez se descubren más casos en los que el uso del dinero se aleja del objetivo de los fondos. Por ejemplo, esta nueva revelación que relaciona a la AMC y al CCCGS con lo ocurrido en el Foro Consultivo Científico y Tecnológico (Foro A.C.) [^nota2], destapado por PODER y Méxicoleaks, en el que un grupo de académicos usurpó funciones públicas y se benefició por más de 16 años de dinero público, también proveniente de FOMIX, de manera discrecional.
 
-![Ilustración: Dani Scharf]({{ site.baseurl }}/assets/img/FOMIX.png)
+![Ilustración: Dani Scharf]({{ site.baseurl }}/assets/img/FOMIX.jpg)
 
 **Gastan dinero sin reportar un peso**
 
