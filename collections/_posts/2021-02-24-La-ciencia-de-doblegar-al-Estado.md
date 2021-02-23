@@ -4,7 +4,9 @@ title: La ciencia de doblegar al Estado
 author: "Ricardo Balderas"
 ---
 
-[T1_01](/images/T1_01.png)
+
+{:.image-post}
+![T1_01. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_01.png)
 
 Las malas prácticas en Asociaciones Civiles financiadas por Fondos Mixtos (FOMIX) del Consejo Nacional de Ciencia y Tecnología (Conacyt), son cada vez más frecuentes. En concreto, dentro del Centro del Cambio Climático Global y la Sustentabilidad, A.C. (CCCGS) y la Academia Mexicana de la Ciencia (AMC). La primera ha creado esquemas de aprovechamiento del dinero público de forma opaca, y la segunda realizó despidos masivos, deslindándose de sus responsabilidades patronales, de acuerdo a documentos oficiales que recibió PODER vía [Méxicoleaks](https://mexicoleaks.mx/).
 
@@ -16,7 +18,8 @@ El problema es que cada vez se descubren más casos en los que el uso del dinero
 
 El Centro del Cambio Climático Global y la Sustentabilidad fue constituido en el estado de Tabasco frente al notario público 32°, en julio de 2012 y administrado hasta 2019 por Rafael Loyola Díaz, recientemente difunto. El Conacyt fue integrado al acta constitutiva del CCCGS, A.C., y no es público quién acepto el acuerdo, pero a través de Méxicoleaks llegó el correo electrónico original en el que Loyola Díaz y Elsa Blum, directora de coordinación regional de Conacyt en julio 2019, acuerdan una aportación obligatoria de 11 millones de pesos sin necesidad de convocatoria o licitación.
 
-[T1_02](/images/T1_02.png)
+{:.image-post}
+![T1_02. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_02.png)
 
 A pesar de que el CCCGS reporta una importante actividad en su muy cuidada web, curiosamente en toda la sección de su Portal de Obligaciones Transparencia Fiscal, sólo hay botones que no llevan a ningún documento. Tampoco existen reportes financieros de la A.C. en el sitio oficial de Conacyt.
 
@@ -30,7 +33,8 @@ Hay que destacar que la Ley General de Bienes Públicos no contempla que los mat
 
 Pese a que en el acta constitutiva de la A.C. (también en manos de este medio de comunicación) se establece en su artículo séptimo que queda expresamente prohibida todo tipo de actividad o propaganda de carácter político haciendo uso del nombre de la asociación, el académico Rafael Loyola Díaz junto a Juan Pedro Laclette San Román, exdirector del Foro Consultivo Científico y Tecnológico A.C., fueron registrados como participantes de la Comisión Temática de Ciencia y Tecnología del Partido Revolucionario Institucional (PRI).
 
-[T1_03](/images/T1_03.png)
+{:.image-post}
+![T1_03. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_03.png)
 
 En el acta también se estipulan como representantes legales a Gerardo Guerrero Pérez, en su calidad de representante del Poder Ejecutivo de Tabasco; Carlos Arámburo de la Hoz, como representante de la Universidad Autónoma de México (UNAM); María Antonieta Saldivar Chávez, por Conacyt; y Wilfrido Miguel Contreras Sánchez, en nombre de la Universidad Juárez Autónoma de Tabasco.
 
@@ -49,7 +53,8 @@ La investigadora Batsy Acosta Mayorga, quien también fue trabajadora de la AMC 
 
 “Cuando nos despidieron a todos, sólo recontrataron al grupo selecto por la coordinadora, que son los sueldos más altos de la Academia, van de 39,000 a 100,000 (pesos), y justo denunciamos el nepotismo y amiguismo que maneja esta coordinadora puesto que en varias áreas todos son familiares y no tienen la documentación (título) para desempeñarse como coordinadoras de áreas ni para recibir esos sueldos”, explicó la académica. 
 
-[T1_04](/images/T1_04.png)
+{:.image-post}
+![T1_04. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T1_04.png)
 
 Según la información proporcionada, la coordinadora de la que habla la quejosa, se trata de Renata Villalba quien ha ostentado el cargo por más de 20 años y las percepciones de las que se le señala son montos [mensuales](https://www.jornada.com.mx/2020/10/19/opinion/024a2pol). 
 
