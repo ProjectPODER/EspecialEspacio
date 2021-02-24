@@ -16,6 +16,7 @@ El problema es que cada vez se descubren más casos en los que el uso del dinero
 
 {:.image-post}
 ![Ilustración: Dani Scharf]({{ site.baseurl }}/assets/img/fomix_poder.jpg)
+Ilustración: Dani Scharf.
 
 **Gastan dinero sin reportar un peso**
 
