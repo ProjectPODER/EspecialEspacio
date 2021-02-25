@@ -16,7 +16,7 @@ Los 80 mdp provinieron del Fondo Mixto (FOMIX) Conacyt-Gobierno del Estado de M�
 
 El proyecto de la AEM inició el 1 de febrero de 2016 con el oficio EDOMEX-2016-02-01-279466. En dicho documento se delegaba a la firma Edificatio, S.A. de C.V. la construcción del CRIDE y en las especificaciones del contrato se solicitó que fuera ejercido en un periodo de 20 meses desarrollados en 3 etapas. Es decir, debió concluir en noviembre de 2017. 
 
-Para septiembre de 2017 el proyecto no estaba listo. Y a pesar de los errores, la Agencia Espacial Mexicana, dirigida por Francisco Mendieta, decidió continuar con él, le retiró el proyecto a Edificatio y el 6 de septiembre de 2017 firmó un convenio con la SEDENA, para que ésta concluyera las [^nota2]. Con ese acuerdo, la gendarmería anunció la construcción de dos Centros de Desarrollo Espacial, uno en Zacatecas capital y otro en Atlacomulco, Estado de México, el cual continuó en obras hasta 2019. 
+Para septiembre de 2017 el proyecto no estaba listo. Y a pesar de los errores, la Agencia Espacial Mexicana, dirigida por Francisco Mendieta, decidió continuar con él, le retiró el proyecto a Edificatio y el 6 de septiembre de 2017 firmó un convenio con la SEDENA, para que ésta concluyera [^nota2]. Con ese acuerdo, la gendarmería anunció la construcción de dos Centros de Desarrollo Espacial, uno en Zacatecas capital y otro en Atlacomulco, Estado de México, el cual continuó en obras hasta 2019. 
 
 {:.image-post}
 ![T2_02. Crédito: Ricardo Balderas]({{ site.baseurl }}/assets/img/T2_02.jpeg)
